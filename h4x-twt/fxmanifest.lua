@@ -11,4 +11,4 @@ author 'iCallH4x'
 description 'Twitter, Darkweb and Advert script'
 version '1.1.0'
 
-server_script 'h4x-twt/main.lua'
+server_script 'server/main.lua'
