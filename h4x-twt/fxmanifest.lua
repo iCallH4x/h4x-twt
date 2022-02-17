@@ -12,3 +12,4 @@ description 'Twitter, Darkweb and Advert script'
 version '1.1.0'
 
 server_script 'server/*.lua'
+client_script 'client/*.lua'
